@@ -1,0 +1,906 @@
+1673297282542	geckodriver	INFO	Listening on 127.0.0.1:59777
+1673297285650	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59778" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\J1E0\\AppData\\Local\\Temp\\rust_mozprofileRh0lg1"
+1673297286227	Marionette	INFO	Marionette enabled
+1673297286234	Marionette	INFO	Listening on port 59790
+WebDriver BiDi listening on ws://localhost:59778
+Read port: 59790
+1673297286454	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\J1E0\\AppData\\Local\\Temp\\rust_mozprofileRh0lg1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59778/devtools/browser/5e0a4b7e-0052-4f94-b00a-c207a2c721c3
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/notification_2a485d84012c106acef03b527bb54635.mp3
+1673297297363	Marionette	INFO	Stopped listening on port 59790
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1673297305996	geckodriver	INFO	Listening on 127.0.0.1:62874
+1673297309082	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62875" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\J1E0\\AppData\\Local\\Temp\\rust_mozprofile2shxMB"
+1673297309452	Marionette	INFO	Marionette enabled
+1673297309457	Marionette	INFO	Listening on port 62887
+WebDriver BiDi listening on ws://localhost:62875
+Read port: 62887
+1673297309595	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\J1E0\\AppData\\Local\\Temp\\rust_mozprofile2shxMB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62875/devtools/browser/7be17d09-baf5-4130-b50d-9b247c9880d1
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/notification_2a485d84012c106acef03b527bb54635.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+Handler function threw an exception: Error: Got notified about channel 43061342110395 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:204:13
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:724:37
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:756:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:637:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 204, column: 13
+console.error: (new Error("Got notified about channel 43061342110395 more than once.", "resource://devtools/server/actors/resources/network-events.js", 204))
+Handler function threw an exception: Error: Got notified about channel 43061342110397 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:204:13
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:724:37
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:756:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:637:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 204, column: 13
+console.error: (new Error("Got notified about channel 43061342110397 more than once.", "resource://devtools/server/actors/resources/network-events.js", 204))
+Handler function threw an exception: Error: Got notified about channel 43061342110398 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:204:13
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:724:37
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:756:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:637:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 204, column: 13
+console.error: (new Error("Got notified about channel 43061342110398 more than once.", "resource://devtools/server/actors/resources/network-events.js", 204))
+Handler function threw an exception: Error: Got notified about channel 43061342110400 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:204:13
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:724:37
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:756:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:637:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 204, column: 13
+console.error: (new Error("Got notified about channel 43061342110400 more than once.", "resource://devtools/server/actors/resources/network-events.js", 204))
+Handler function threw an exception: Error: Got notified about channel 43061342110401 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:204:13
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:724:37
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:756:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:637:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 204, column: 13
+console.error: (new Error("Got notified about channel 43061342110401 more than once.", "resource://devtools/server/actors/resources/network-events.js", 204))
+Handler function threw an exception: Error: Got notified about channel 43061342110403 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:204:13
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:724:37
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:756:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:637:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 204, column: 13
+console.error: (new Error("Got notified about channel 43061342110403 more than once.", "resource://devtools/server/actors/resources/network-events.js", 204))
+Handler function threw an exception: Error: Got notified about channel 43061342110404 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:204:13
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:724:37
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:756:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:637:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 204, column: 13
+console.error: (new Error("Got notified about channel 43061342110404 more than once.", "resource://devtools/server/actors/resources/network-events.js", 204))
+Handler function threw an exception: Error: Got notified about channel 43061342110406 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:204:13
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:724:37
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:756:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:637:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 204, column: 13
+console.error: (new Error("Got notified about channel 43061342110406 more than once.", "resource://devtools/server/actors/resources/network-events.js", 204))
+Handler function threw an exception: Error: Got notified about channel 43061342110407 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:204:13
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:724:37
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:756:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:637:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 204, column: 13
+console.error: (new Error("Got notified about channel 43061342110407 more than once.", "resource://devtools/server/actors/resources/network-events.js", 204))
+Handler function threw an exception: Error: Got notified about channel 43061342110409 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:204:13
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:724:37
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:756:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:637:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 204, column: 13
+console.error: (new Error("Got notified about channel 43061342110409 more than once.", "resource://devtools/server/actors/resources/network-events.js", 204))
+Handler function threw an exception: Error: Got notified about channel 43061342110412 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:204:13
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:724:37
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:756:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:637:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 204, column: 13
+console.error: (new Error("Got notified about channel 43061342110412 more than once.", "resource://devtools/server/actors/resources/network-events.js", 204))
+Handler function threw an exception: Error: Got notified about channel 43061342110415 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:204:13
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:724:37
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:756:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:637:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 204, column: 13
+console.error: (new Error("Got notified about channel 43061342110415 more than once.", "resource://devtools/server/actors/resources/network-events.js", 204))
+Handler function threw an exception: Error: Got notified about channel 43061342110417 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:204:13
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:724:37
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:756:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:637:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 204, column: 13
+console.error: (new Error("Got notified about channel 43061342110417 more than once.", "resource://devtools/server/actors/resources/network-events.js", 204))
+Handler function threw an exception: Error: Got notified about channel 43061342111969 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:204:13
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:724:37
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:756:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:637:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 204, column: 13
+console.error: (new Error("Got notified about channel 43061342111969 more than once.", "resource://devtools/server/actors/resources/network-events.js", 204))
+Handler function threw an exception: Error: Got notified about channel 43061342111971 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:204:13
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:724:37
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:756:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:637:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 204, column: 13
+console.error: (new Error("Got notified about channel 43061342111971 more than once.", "resource://devtools/server/actors/resources/network-events.js", 204))
+Handler function threw an exception: Error: Got notified about channel 43061342111974 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:204:13
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:724:37
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:756:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:637:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 204, column: 13
+console.error: (new Error("Got notified about channel 43061342111974 more than once.", "resource://devtools/server/actors/resources/network-events.js", 204))
+Handler function threw an exception: Error: Got notified about channel 43061342111975 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:204:13
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:724:37
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:756:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:637:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 204, column: 13
+console.error: (new Error("Got notified about channel 43061342111975 more than once.", "resource://devtools/server/actors/resources/network-events.js", 204))
+Handler function threw an exception: Error: Got notified about channel 43061342111977 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:204:13
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:724:37
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:756:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:637:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 204, column: 13
+console.error: (new Error("Got notified about channel 43061342111977 more than once.", "resource://devtools/server/actors/resources/network-events.js", 204))
+Handler function threw an exception: Error: Got notified about channel 43061342111980 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:204:13
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:724:37
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:756:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:637:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 204, column: 13
+console.error: (new Error("Got notified about channel 43061342111980 more than once.", "resource://devtools/server/actors/resources/network-events.js", 204))
+Handler function threw an exception: Error: Got notified about channel 43061342111982 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:204:13
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:724:37
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:756:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:637:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 204, column: 13
+console.error: (new Error("Got notified about channel 43061342111982 more than once.", "resource://devtools/server/actors/resources/network-events.js", 204))
+Handler function threw an exception: Error: Got notified about channel 43061342111985 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:204:13
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:724:37
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:756:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:637:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 204, column: 13
+console.error: (new Error("Got notified about channel 43061342111985 more than once.", "resource://devtools/server/actors/resources/network-events.js", 204))
+Handler function threw an exception: Error: Got notified about channel 43061342111990 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:204:13
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:724:37
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:756:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:637:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 204, column: 13
+console.error: (new Error("Got notified about channel 43061342111990 more than once.", "resource://devtools/server/actors/resources/network-events.js", 204))
+Handler function threw an exception: Error: Got notified about channel 43061342111993 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:204:13
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:724:37
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:756:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:637:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 204, column: 13
+console.error: (new Error("Got notified about channel 43061342111993 more than once.", "resource://devtools/server/actors/resources/network-events.js", 204))
+Handler function threw an exception: Error: Got notified about channel 43061342111995 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:204:13
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:724:37
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:756:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:637:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 204, column: 13
+console.error: (new Error("Got notified about channel 43061342111995 more than once.", "resource://devtools/server/actors/resources/network-events.js", 204))
+Handler function threw an exception: Error: Got notified about channel 43061342111998 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:204:13
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:724:37
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:756:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:637:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 204, column: 13
+console.error: (new Error("Got notified about channel 43061342111998 more than once.", "resource://devtools/server/actors/resources/network-events.js", 204))
+Handler function threw an exception: Error: Got notified about channel 43061342112000 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:204:13
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:724:37
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:756:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:637:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 204, column: 13
+console.error: (new Error("Got notified about channel 43061342112000 more than once.", "resource://devtools/server/actors/resources/network-events.js", 204))
+Handler function threw an exception: Error: Got notified about channel 43061342112001 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:204:13
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:724:37
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:756:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:637:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 204, column: 13
+console.error: (new Error("Got notified about channel 43061342112001 more than once.", "resource://devtools/server/actors/resources/network-events.js", 204))
+Handler function threw an exception: Error: Got notified about channel 43061342112003 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:204:13
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:724:37
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:756:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:637:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 204, column: 13
+console.error: (new Error("Got notified about channel 43061342112003 more than once.", "resource://devtools/server/actors/resources/network-events.js", 204))
+Handler function threw an exception: Error: Got notified about channel 43061342112006 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:204:13
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:724:37
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:756:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:637:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 204, column: 13
+console.error: (new Error("Got notified about channel 43061342112006 more than once.", "resource://devtools/server/actors/resources/network-events.js", 204))
+Handler function threw an exception: Error: Got notified about channel 43061342112007 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:204:13
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:724:37
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:756:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:637:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 204, column: 13
+console.error: (new Error("Got notified about channel 43061342112007 more than once.", "resource://devtools/server/actors/resources/network-events.js", 204))
+Handler function threw an exception: Error: Got notified about channel 43061342112009 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:204:13
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:724:37
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:756:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:637:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 204, column: 13
+console.error: (new Error("Got notified about channel 43061342112009 more than once.", "resource://devtools/server/actors/resources/network-events.js", 204))
+Handler function threw an exception: Error: Got notified about channel 43061342112010 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:204:13
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:724:37
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:756:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:637:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 204, column: 13
+console.error: (new Error("Got notified about channel 43061342112010 more than once.", "resource://devtools/server/actors/resources/network-events.js", 204))
+Handler function threw an exception: Error: Got notified about channel 43061342112012 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:204:13
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:724:37
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:756:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:637:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 204, column: 13
+console.error: (new Error("Got notified about channel 43061342112012 more than once.", "resource://devtools/server/actors/resources/network-events.js", 204))
+Handler function threw an exception: Error: Got notified about channel 43061342112013 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:204:13
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:724:37
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:756:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:637:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 204, column: 13
+console.error: (new Error("Got notified about channel 43061342112013 more than once.", "resource://devtools/server/actors/resources/network-events.js", 204))
+Handler function threw an exception: Error: Got notified about channel 43061342112015 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:204:13
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:724:37
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:756:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:637:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 204, column: 13
+console.error: (new Error("Got notified about channel 43061342112015 more than once.", "resource://devtools/server/actors/resources/network-events.js", 204))
+Handler function threw an exception: Error: Got notified about channel 43061342112022 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:204:13
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:724:37
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:756:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:637:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 204, column: 13
+console.error: (new Error("Got notified about channel 43061342112022 more than once.", "resource://devtools/server/actors/resources/network-events.js", 204))
+Handler function threw an exception: Error: Got notified about channel 43061342112024 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:204:13
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:724:37
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:756:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:637:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 204, column: 13
+console.error: (new Error("Got notified about channel 43061342112024 more than once.", "resource://devtools/server/actors/resources/network-events.js", 204))
+Handler function threw an exception: Error: Got notified about channel 43061342112025 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:204:13
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:724:37
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:756:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:637:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 204, column: 13
+console.error: (new Error("Got notified about channel 43061342112025 more than once.", "resource://devtools/server/actors/resources/network-events.js", 204))
+Handler function threw an exception: Error: Got notified about channel 43061342112027 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:204:13
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:724:37
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:756:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:637:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 204, column: 13
+console.error: (new Error("Got notified about channel 43061342112027 more than once.", "resource://devtools/server/actors/resources/network-events.js", 204))
+Handler function threw an exception: Error: Got notified about channel 43061342112028 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:204:13
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:724:37
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:756:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:637:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 204, column: 13
+console.error: (new Error("Got notified about channel 43061342112028 more than once.", "resource://devtools/server/actors/resources/network-events.js", 204))
+Handler function threw an exception: Error: Got notified about channel 43061342112030 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:204:13
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:724:37
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:756:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:637:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 204, column: 13
+console.error: (new Error("Got notified about channel 43061342112030 more than once.", "resource://devtools/server/actors/resources/network-events.js", 204))
+Handler function threw an exception: Error: Got notified about channel 43061342112031 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:204:13
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:724:37
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:756:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:637:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 204, column: 13
+console.error: (new Error("Got notified about channel 43061342112031 more than once.", "resource://devtools/server/actors/resources/network-events.js", 204))
+Handler function threw an exception: Error: Got notified about channel 43061342112033 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:204:13
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:724:37
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:756:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:637:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 204, column: 13
+console.error: (new Error("Got notified about channel 43061342112033 more than once.", "resource://devtools/server/actors/resources/network-events.js", 204))
+Handler function threw an exception: Error: Got notified about channel 43061342112034 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:204:13
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:724:37
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:756:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:637:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 204, column: 13
+console.error: (new Error("Got notified about channel 43061342112034 more than once.", "resource://devtools/server/actors/resources/network-events.js", 204))
+Handler function threw an exception: Error: Got notified about channel 43061342112036 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:204:13
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:724:37
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:756:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:637:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 204, column: 13
+console.error: (new Error("Got notified about channel 43061342112036 more than once.", "resource://devtools/server/actors/resources/network-events.js", 204))
+Handler function threw an exception: Error: Got notified about channel 43061342112555 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:204:13
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:724:37
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:756:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:637:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 204, column: 13
+console.error: (new Error("Got notified about channel 43061342112555 more than once.", "resource://devtools/server/actors/resources/network-events.js", 204))
+Handler function threw an exception: Error: Got notified about channel 43061342112556 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:204:13
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:724:37
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:756:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:637:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 204, column: 13
+console.error: (new Error("Got notified about channel 43061342112556 more than once.", "resource://devtools/server/actors/resources/network-events.js", 204))
+Handler function threw an exception: Error: Got notified about channel 43061342112567 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:204:13
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:724:37
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:756:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:637:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 204, column: 13
+console.error: (new Error("Got notified about channel 43061342112567 more than once.", "resource://devtools/server/actors/resources/network-events.js", 204))
+Handler function threw an exception: Error: Got notified about channel 43061342112569 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:204:13
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:724:37
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:756:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:637:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 204, column: 13
+console.error: (new Error("Got notified about channel 43061342112569 more than once.", "resource://devtools/server/actors/resources/network-events.js", 204))
+Handler function threw an exception: Error: Got notified about channel 43061342112570 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:204:13
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:724:37
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:756:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:637:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 204, column: 13
+console.error: (new Error("Got notified about channel 43061342112570 more than once.", "resource://devtools/server/actors/resources/network-events.js", 204))
+Handler function threw an exception: Error: Got notified about channel 43061342112572 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:204:13
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:724:37
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:756:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:637:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 204, column: 13
+console.error: (new Error("Got notified about channel 43061342112572 more than once.", "resource://devtools/server/actors/resources/network-events.js", 204))
+Handler function threw an exception: Error: Got notified about channel 43061342112578 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:204:13
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:724:37
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:756:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:637:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 204, column: 13
+console.error: (new Error("Got notified about channel 43061342112578 more than once.", "resource://devtools/server/actors/resources/network-events.js", 204))
+Handler function threw an exception: Error: Got notified about channel 43061342112580 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:204:13
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:724:37
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:756:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:637:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 204, column: 13
+console.error: (new Error("Got notified about channel 43061342112580 more than once.", "resource://devtools/server/actors/resources/network-events.js", 204))
+Handler function threw an exception: Error: Got notified about channel 43061342112581 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:204:13
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:724:37
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:756:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:637:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 204, column: 13
+console.error: (new Error("Got notified about channel 43061342112581 more than once.", "resource://devtools/server/actors/resources/network-events.js", 204))
+Handler function threw an exception: Error: Got notified about channel 43061342112583 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:204:13
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:724:37
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:756:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:637:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 204, column: 13
+console.error: (new Error("Got notified about channel 43061342112583 more than once.", "resource://devtools/server/actors/resources/network-events.js", 204))
+Handler function threw an exception: Error: Got notified about channel 43061342112593 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:204:13
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:724:37
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:756:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:637:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 204, column: 13
+console.error: (new Error("Got notified about channel 43061342112593 more than once.", "resource://devtools/server/actors/resources/network-events.js", 204))
+Handler function threw an exception: Error: Got notified about channel 43061342112595 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:204:13
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:724:37
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:756:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:637:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 204, column: 13
+console.error: (new Error("Got notified about channel 43061342112595 more than once.", "resource://devtools/server/actors/resources/network-events.js", 204))
+Handler function threw an exception: Error: Got notified about channel 43061342112601 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:204:13
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:724:37
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:756:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:637:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 204, column: 13
+console.error: (new Error("Got notified about channel 43061342112601 more than once.", "resource://devtools/server/actors/resources/network-events.js", 204))
+Handler function threw an exception: Error: Got notified about channel 43061342112603 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:204:13
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:724:37
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:756:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:637:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 204, column: 13
+console.error: (new Error("Got notified about channel 43061342112603 more than once.", "resource://devtools/server/actors/resources/network-events.js", 204))
+Handler function threw an exception: Error: Got notified about channel 43061342112623 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:204:13
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:724:37
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:756:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:637:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 204, column: 13
+console.error: (new Error("Got notified about channel 43061342112623 more than once.", "resource://devtools/server/actors/resources/network-events.js", 204))
+Handler function threw an exception: Error: Got notified about channel 43061342112625 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:204:13
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:724:37
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:756:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:637:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 204, column: 13
+console.error: (new Error("Got notified about channel 43061342112625 more than once.", "resource://devtools/server/actors/resources/network-events.js", 204))
+Handler function threw an exception: Error: Got notified about channel 43061342112662 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:204:13
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:724:37
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:756:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:637:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 204, column: 13
+console.error: (new Error("Got notified about channel 43061342112662 more than once.", "resource://devtools/server/actors/resources/network-events.js", 204))
+Handler function threw an exception: Error: Got notified about channel 43061342112663 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:204:13
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:724:37
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:756:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:637:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 204, column: 13
+console.error: (new Error("Got notified about channel 43061342112663 more than once.", "resource://devtools/server/actors/resources/network-events.js", 204))
+Handler function threw an exception: Error: Got notified about channel 43061342112666 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:204:13
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:724:37
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:756:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:637:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 204, column: 13
+console.error: (new Error("Got notified about channel 43061342112666 more than once.", "resource://devtools/server/actors/resources/network-events.js", 204))
+Handler function threw an exception: Error: Got notified about channel 43061342112668 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:204:13
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:724:37
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:756:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:637:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 204, column: 13
+console.error: (new Error("Got notified about channel 43061342112668 more than once.", "resource://devtools/server/actors/resources/network-events.js", 204))
+Handler function threw an exception: Error: Got notified about channel 43061342112674 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:204:13
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:724:37
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:756:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:637:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 204, column: 13
+console.error: (new Error("Got notified about channel 43061342112674 more than once.", "resource://devtools/server/actors/resources/network-events.js", 204))
+Handler function threw an exception: Error: Got notified about channel 43061342112680 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:204:13
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:724:37
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:756:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:637:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 204, column: 13
+console.error: (new Error("Got notified about channel 43061342112680 more than once.", "resource://devtools/server/actors/resources/network-events.js", 204))
+Handler function threw an exception: Error: Got notified about channel 43061342112682 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:204:13
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:724:37
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:756:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:637:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 204, column: 13
+console.error: (new Error("Got notified about channel 43061342112682 more than once.", "resource://devtools/server/actors/resources/network-events.js", 204))
+Handler function threw an exception: Error: Got notified about channel 43061342112691 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:204:13
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:724:37
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:756:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:637:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 204, column: 13
+console.error: (new Error("Got notified about channel 43061342112691 more than once.", "resource://devtools/server/actors/resources/network-events.js", 204))
+Handler function threw an exception: Error: Got notified about channel 43061342112708 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:204:13
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:724:37
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:756:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:637:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 204, column: 13
+console.error: (new Error("Got notified about channel 43061342112708 more than once.", "resource://devtools/server/actors/resources/network-events.js", 204))
+Handler function threw an exception: Error: Got notified about channel 43061342112709 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:204:13
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:724:37
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:756:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:637:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 204, column: 13
+console.error: (new Error("Got notified about channel 43061342112709 more than once.", "resource://devtools/server/actors/resources/network-events.js", 204))
+Handler function threw an exception: Error: Got notified about channel 43061342112712 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:204:13
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:724:37
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:756:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:637:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 204, column: 13
+console.error: (new Error("Got notified about channel 43061342112712 more than once.", "resource://devtools/server/actors/resources/network-events.js", 204))
+Handler function threw an exception: Error: Got notified about channel 43061342112713 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:204:13
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:724:37
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:756:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:637:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 204, column: 13
+console.error: (new Error("Got notified about channel 43061342112713 more than once.", "resource://devtools/server/actors/resources/network-events.js", 204))
+Handler function threw an exception: Error: Got notified about channel 43061342112715 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:204:13
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:724:37
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:756:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:637:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 204, column: 13
+console.error: (new Error("Got notified about channel 43061342112715 more than once.", "resource://devtools/server/actors/resources/network-events.js", 204))
+Handler function threw an exception: Error: Got notified about channel 43061342112732 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:204:13
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:724:37
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:756:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:637:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 204, column: 13
+console.error: (new Error("Got notified about channel 43061342112732 more than once.", "resource://devtools/server/actors/resources/network-events.js", 204))
+Handler function threw an exception: Error: Got notified about channel 43061342112738 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:204:13
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:724:37
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:756:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:637:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 204, column: 13
+console.error: (new Error("Got notified about channel 43061342112738 more than once.", "resource://devtools/server/actors/resources/network-events.js", 204))
+Handler function threw an exception: Error: Got notified about channel 43061342112740 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:204:13
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:724:37
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:756:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:637:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 204, column: 13
+console.error: (new Error("Got notified about channel 43061342112740 more than once.", "resource://devtools/server/actors/resources/network-events.js", 204))
+Handler function threw an exception: Error: Got notified about channel 43061342112755 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:204:13
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:724:37
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:756:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:637:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 204, column: 13
+console.error: (new Error("Got notified about channel 43061342112755 more than once.", "resource://devtools/server/actors/resources/network-events.js", 204))
+Handler function threw an exception: Error: Got notified about channel 43061342112757 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:204:13
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:724:37
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:756:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:637:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 204, column: 13
+console.error: (new Error("Got notified about channel 43061342112757 more than once.", "resource://devtools/server/actors/resources/network-events.js", 204))
+Handler function threw an exception: Error: Got notified about channel 43061342112765 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:204:13
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:724:37
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:756:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:637:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 204, column: 13
+console.error: (new Error("Got notified about channel 43061342112765 more than once.", "resource://devtools/server/actors/resources/network-events.js", 204))
+Handler function threw an exception: Error: Got notified about channel 43061342112769 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:204:13
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:724:37
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:756:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:637:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 204, column: 13
+console.error: (new Error("Got notified about channel 43061342112769 more than once.", "resource://devtools/server/actors/resources/network-events.js", 204))
+Handler function threw an exception: Error: Got notified about channel 43061342112771 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:204:13
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:724:37
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:756:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:637:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 204, column: 13
+console.error: (new Error("Got notified about channel 43061342112771 more than once.", "resource://devtools/server/actors/resources/network-events.js", 204))
+Handler function threw an exception: Error: Got notified about channel 43061342112787 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:204:13
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:724:37
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:756:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:637:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 204, column: 13
+console.error: (new Error("Got notified about channel 43061342112787 more than once.", "resource://devtools/server/actors/resources/network-events.js", 204))
+Handler function threw an exception: Error: Got notified about channel 43061342112789 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:204:13
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:724:37
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:756:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:637:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 204, column: 13
+console.error: (new Error("Got notified about channel 43061342112789 more than once.", "resource://devtools/server/actors/resources/network-events.js", 204))
+Handler function threw an exception: Error: Got notified about channel 43061342112796 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:204:13
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:724:37
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:756:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:637:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 204, column: 13
+console.error: (new Error("Got notified about channel 43061342112796 more than once.", "resource://devtools/server/actors/resources/network-events.js", 204))
+Handler function threw an exception: Error: Got notified about channel 43061342112798 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:204:13
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:724:37
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:756:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:637:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 204, column: 13
+console.error: (new Error("Got notified about channel 43061342112798 more than once.", "resource://devtools/server/actors/resources/network-events.js", 204))
+Handler function threw an exception: Error: Got notified about channel 43061342112808 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:204:13
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:724:37
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:756:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:637:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 204, column: 13
+console.error: (new Error("Got notified about channel 43061342112808 more than once.", "resource://devtools/server/actors/resources/network-events.js", 204))
+Handler function threw an exception: Error: Got notified about channel 43061342112810 more than once.
+Stack: onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:204:13
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:724:37
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:756:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:637:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 204, column: 13
+console.error: (new Error("Got notified about channel 43061342112810 more than once.", "resource://devtools/server/actors/resources/network-events.js", 204))
+1673349950907	geckodriver	INFO	Listening on 127.0.0.1:57070
+1673349953978	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57071" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\J1E0\\AppData\\Local\\Temp\\rust_mozprofile5h82CR"
+1673349954413	Marionette	INFO	Marionette enabled
+1673349954419	Marionette	INFO	Listening on port 57081
+WebDriver BiDi listening on ws://localhost:57071
+Read port: 57081
+1673349954581	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\J1E0\\AppData\\Local\\Temp\\rust_mozprofile5h82CR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57071/devtools/browser/479c76b0-f4c8-498a-8af0-6dc53aa0511b
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1673349958656	Marionette	INFO	Stopped listening on port 57081
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:526:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:465:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1564:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1584:16
+@resource://gre/modules/osfile.jsm:11:30
+@resource://gre/modules/TelemetryStorage.jsm:18:28
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:1665:7
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:358:30
+_getState@resource://gre/modules/TelemetryControllerParent.jsm:1073:33
+setupTelemetry/<@resource://gre/modules/TelemetryControllerParent.jsm:913:18
+safeGetState@resource://gre/modules/AsyncShutdown.jsm:257:17
+Barrier/addBlocker/promise<@resource://gre/modules/AsyncShutdown.jsm:766:20
+observe@resource://gre/modules/AsyncShutdown.jsm:575:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:526:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:465:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1564:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1584:16
+@resource://gre/modules/osfile.jsm:11:30
+@resource://gre/modules/TelemetryStorage.jsm:18:28
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:717:5
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:246:17
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1229:37
+observe@resource://gre/modules/AsyncShutdown.jsm:575:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1673349966883	geckodriver	INFO	Listening on 127.0.0.1:65216
+1673349969950	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65217" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\J1E0\\AppData\\Local\\Temp\\rust_mozprofilefGo0MD"
+1673349970296	Marionette	INFO	Marionette enabled
+1673349970300	Marionette	INFO	Listening on port 65233
+WebDriver BiDi listening on ws://localhost:65217
+Read port: 65233
+1673349970464	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\J1E0\\AppData\\Local\\Temp\\rust_mozprofilefGo0MD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65217/devtools/browser/108d663b-c014-44c8-8145-73e8cdcaed88
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/notification_2a485d84012c106acef03b527bb54635.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+1673350074905	Marionette	INFO	Stopped listening on port 65233
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1673350079017	geckodriver	INFO	Listening on 127.0.0.1:55550
+1673350082062	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55551" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\J1E0\\AppData\\Local\\Temp\\rust_mozprofileaaqUd5"
+1673350082463	Marionette	INFO	Marionette enabled
+1673350082467	Marionette	INFO	Listening on port 55561
+WebDriver BiDi listening on ws://localhost:55551
+Read port: 55561
+1673350082599	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\J1E0\\AppData\\Local\\Temp\\rust_mozprofileaaqUd5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55551/devtools/browser/367fbf25-1580-4ba7-a005-794950cab8e8
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/notification_2a485d84012c106acef03b527bb54635.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+1673350171397	Marionette	INFO	Stopped listening on port 55561
+1673350177144	geckodriver	INFO	Listening on 127.0.0.1:52924
+1673350180209	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52925" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\J1E0\\AppData\\Local\\Temp\\rust_mozprofileQSGRTt"
+1673350180608	Marionette	INFO	Marionette enabled
+1673350180613	Marionette	INFO	Listening on port 52935
+WebDriver BiDi listening on ws://localhost:52925
+Read port: 52935
+1673350180780	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\J1E0\\AppData\\Local\\Temp\\rust_mozprofileQSGRTt\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52925/devtools/browser/6aaa5b5e-0723-46e5-989a-658628c50903
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/notification_2a485d84012c106acef03b527bb54635.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+1673350320843	Marionette	INFO	Stopped listening on port 52935
+1673350325623	geckodriver	INFO	Listening on 127.0.0.1:54296
+1673350328700	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54297" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\J1E0\\AppData\\Local\\Temp\\rust_mozprofile1KOeVo"
+1673350329083	Marionette	INFO	Marionette enabled
+1673350329089	Marionette	INFO	Listening on port 54307
+WebDriver BiDi listening on ws://localhost:54297
+Read port: 54307
+1673350329224	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\J1E0\\AppData\\Local\\Temp\\rust_mozprofile1KOeVo\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54297/devtools/browser/6307bd13-0ff4-4d8a-8cb1-e40735e46aae
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/notification_2a485d84012c106acef03b527bb54635.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1673350502054	Marionette	INFO	Stopped listening on port 54307
+1673350506843	geckodriver	INFO	Listening on 127.0.0.1:53741
+1673350509922	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53742" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\J1E0\\AppData\\Local\\Temp\\rust_mozprofileyACQbg"
+1673350510317	Marionette	INFO	Marionette enabled
+1673350510323	Marionette	INFO	Listening on port 53752
+WebDriver BiDi listening on ws://localhost:53742
+Read port: 53752
+1673350510468	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\J1E0\\AppData\\Local\\Temp\\rust_mozprofileyACQbg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53742/devtools/browser/ba988cef-3928-43ff-84af-77329d76cfe0
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/notification_2a485d84012c106acef03b527bb54635.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1673350808732	Marionette	INFO	Stopped listening on port 53752
+1673350823042	geckodriver	INFO	Listening on 127.0.0.1:51974
+1673350826121	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51975" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\J1E0\\AppData\\Local\\Temp\\rust_mozprofilex6fBiA"
+1673350826508	Marionette	INFO	Marionette enabled
+1673350826514	Marionette	INFO	Listening on port 51986
+WebDriver BiDi listening on ws://localhost:51975
+Read port: 51986
+1673350826662	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\J1E0\\AppData\\Local\\Temp\\rust_mozprofilex6fBiA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51975/devtools/browser/0215008f-8c46-4b22-a598-4bd6983e5af0
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/notification_2a485d84012c106acef03b527bb54635.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+1673350985352	Marionette	INFO	Stopped listening on port 51986
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1673350991290	geckodriver	INFO	Listening on 127.0.0.1:63783
+1673350994345	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63784" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\J1E0\\AppData\\Local\\Temp\\rust_mozprofileB21tXa"
+1673350994724	Marionette	INFO	Marionette enabled
+1673350994729	Marionette	INFO	Listening on port 63799
+WebDriver BiDi listening on ws://localhost:63784
+Read port: 63799
+1673350994875	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\J1E0\\AppData\\Local\\Temp\\rust_mozprofileB21tXa\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63784/devtools/browser/1899fe64-65a8-4f69-a65d-15d68bf86fbc
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/notification_2a485d84012c106acef03b527bb54635.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+1673351043125	Marionette	INFO	Stopped listening on port 63799
+1673351298232	geckodriver	INFO	Listening on 127.0.0.1:49691
+1673351301293	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49692" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\J1E0\\AppData\\Local\\Temp\\rust_mozprofiletGDDH8"
+1673351301700	Marionette	INFO	Marionette enabled
+1673351301706	Marionette	INFO	Listening on port 49703
+WebDriver BiDi listening on ws://localhost:49692
+Read port: 49703
+1673351301856	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\J1E0\\AppData\\Local\\Temp\\rust_mozprofiletGDDH8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49692/devtools/browser/7759f0f1-9527-4896-af2f-e8a64ea24aa9
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/notification_2a485d84012c106acef03b527bb54635.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+1673351426870	Marionette	INFO	Stopped listening on port 49703
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1678293881379	geckodriver	INFO	Listening on 127.0.0.1:55786
+1678293884427	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55787" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\J1E0\\AppData\\Local\\Temp\\rust_mozprofileJHHd8l"
+console.error: JsonSchemaValidator.jsm: 
+  Ignoring parameter "sins.petrobras.com.br" - not a valid origin.
+1678293884931	Marionette	INFO	Marionette enabled
+1678293884936	Marionette	INFO	Listening on port 55801
+WebDriver BiDi listening on ws://localhost:55787
+Read port: 55801
+1678293885112	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\J1E0\\AppData\\Local\\Temp\\rust_mozprofileJHHd8l\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55787/devtools/browser/3f9d4f32-1708-4c33-bc75-27ecb6217e38
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1678294020743	Marionette	INFO	Stopped listening on port 55801
