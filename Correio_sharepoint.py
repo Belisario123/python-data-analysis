@@ -27,13 +27,13 @@ messages.Sort("[ReceivedTime]", True)  # Ordenar por data de recebimento, do mai
 messages = messages.Restrict(restriction)
 
 # Caminhos dos arquivos que serão substituídos
-file_to_replace_1 = r"C:\Users\J1E0\OneDrive - PETROBRAS\Área de Trabalho\Testescript\Volumetria Backlog SN.xlsx"
-file_to_replace_2 = r"C:\Users\J1E0\OneDrive - PETROBRAS\Área de Trabalho\Testescript\m2m_kb_task.xlsx"  # Substitua com o caminho correto
-file_to_replace_3 = r"C:\Users\J1E0\OneDrive - PETROBRAS\Área de Trabalho\Testescript\Pesquisa SNOW.xlsx"
-file_to_replace_4 = r"C:\Users\J1E0\OneDrive - PETROBRAS\Área de Trabalho\Testescript\task_sla.xlsx"
+file_to_replace_1 = r"CAMINHO DO SEU ARQUIVO\Volumetria Backlog SN.xlsx"
+file_to_replace_2 = r"CAMINHO DO SEU ARQUIVO\m2m_kb_task.xlsx" 
+file_to_replace_3 = r"CAMINHO DO SEU ARQUIVO\Pesquisa SNOW.xlsx"
+file_to_replace_4 = r"CAMINHO DO SEU ARQUIVO\task_sla.xlsx"
 
 # Pasta temporária para extrair o arquivo zip
-zip_temp_folder = r"C:\Users\J1E0\OneDrive - PETROBRAS\Área de Trabalho\Testescript\temp_zip"
+zip_temp_folder = r"CAMINHO DO SEU ARQUIVO\Testescript\temp_zip"
 if not os.path.exists(zip_temp_folder):
     os.makedirs(zip_temp_folder)
 
